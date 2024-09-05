@@ -1,0 +1,28 @@
+div {
+    border: 1px solid black;
+    padding: 10px;
+    width: 50%;
+    margin: 20px auto;
+    text-align: center; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    border-radius: 10px; 
+}
+
+h1 {
+    text-align: center;
+    color: #333; 
+}
+
+label, input, button {
+    display: block;
+    margin: 10px auto;
+    text-align: center;
+}
+
+body {
+    background-image: linear-gradient(to bottom, #D9A7C7, #FFFCDC);
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
